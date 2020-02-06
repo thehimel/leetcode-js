@@ -29,3 +29,8 @@ Each look up in the table costs only O(1) time.
 Space complexity : O(n). The extra space required depends on the number of items stored in the hash table,
 which stores at most n elements.
 */
+
+/*
+Runtime: 60 ms, faster than 74.62% of JavaScript online submissions for Two Sum.
+Memory Usage: 35.1 MB, less than 23.97% of JavaScript online submissions for Two Sum.
+*/
